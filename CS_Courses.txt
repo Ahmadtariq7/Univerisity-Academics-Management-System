@@ -1,0 +1,50 @@
+Introduction to Computing
+Introduction to Computing Lab
+Applied Physics
+Calculus-1
+English Language
+English Language Lab
+Islamic & Religious Studies
+Object Oriented Programming
+Object Oriented Programming Lab
+Digital Logic Design
+Digital Logic Design Lab
+Calculus-2
+Pakistan Studies
+English Composition
+Data Structures
+Discrete Structures
+Comp. Organization & Assembly Lang.
+Comp. Organization & Assembly Lang. Lab
+Linear Algebra
+Fundamental of Management
+Database System
+Database System Lab
+Operating Systems
+Operating Systems lab
+Design & Analysis of Algorithms
+Fundamental of Accounting 
+Numerical Methods
+Theory of Automata
+Computer Networks
+Computer Networks Lab
+Object Oriented Analysis & Design
+Object Oriented Analysis & Design Lab
+Probability & Statistics
+CS Elective
+Artificial Intelligence
+Software Engineering
+Technical and Business Writing
+CS/MG Elective-2
+Social Science Elective
+Human Computer Interaction
+Project-1
+Computer Architecture
+CS Elective-3
+Social Science Elective
+Professional Issues in IT
+Project-2
+CS Elective-4
+CS Elective-5
+CS Elective-6
+
